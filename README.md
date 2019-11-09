@@ -9,36 +9,24 @@ Our datasets include information about applications on Google Play store. Accord
 # Description of dataset
 We get the datasets from Kaggle. There are two datasets:
 
-The first one is about some information of different apps and contains 13 variables:
+The first one is about some information of different apps and contains 13 variables:</br>
+
 -Category(Category the app belongs to)</br>
--Rating(Overall user rating of the app).
-
--Reviews(Number of user reviews for the app);
-
--Size(Size of the app);
-
--Installs(Number of user downloads/installs for the app);
-
--Type(Paid or Free);
-
--Price(Price of the app);
-
--Content Rating(Age group the app is targeted at - Children / Mature 21+ / Adult);
-
--Genres(An app can belong to multiple genres (apart from its main category));
-
--Last Updated(Date when the app was last updated on Play Store);
-
--Current Ver(Current version of the app available on Play Store);
-
--Android Ver(Min required Android version.
+-Rating(Overall user rating of the app)</br>
+-Reviews(Number of user reviews for the app)</br>
+-Size(Size of the app)</br>
+-Installs(Number of user downloads/installs for the app)</br>
+-Type(Paid or Free)</br>
+-Price(Price of the app)</br>
+-Content Rating(Age group the app is targeted at - Children / Mature 21+ / Adult)</br>
+-Genres(An app can belong to multiple genres (apart from its main category))</br>
+-Last Updated(Date when the app was last updated on Play Store)</br>
+-Current Ver(Current version of the app available on Play Store)</br>
+-Android Ver(Min required Android version</br>
 
 The second one is the text for reviews and contains 5 variables:
 
--App(Name of app);
-
--Translated_Review(User review (Preprocessed and translated to English));
-
--Sentiment(Positive/Negative/Neutral(Preprocessed));Sentiment_Polarity(Sentiment polarity score);
-
--Sentiment_Subjectivity(Sentiment subjectivity score).
+-App(Name of app)</br>
+-Translated_Review(User review (Preprocessed and translated to English))</br>
+-Sentiment(Positive/Negative/Neutral(Preprocessed));Sentiment_Polarity(Sentiment polarity score)</br>
+-Sentiment_Subjectivity(Sentiment subjectivity score)
