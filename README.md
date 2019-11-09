@@ -10,8 +10,8 @@ Our datasets include information about applications on Google Play store. Accord
 We get the datasets from Kaggle. There are two datasets:
 
 The first one is about some information of different apps and contains 13 variables:
--Category(Category the app belongs to);
--Rating(Overall user rating of the app);
+Category(Category the app belongs to).
+Rating(Overall user rating of the app).
 
 -Reviews(Number of user reviews for the app);
 
