@@ -4,7 +4,7 @@ While many public datasets (on Kaggle and the like) provide Apple App Store data
 The Play Store apps data has enormous potential to drive app-making businesses to success. Actionable insights can be drawn for developers to work on and capture the Android market!
 
 # Project objectives
-Our datasets include information about applications on Google Play store. According to this datasets, we expect to dig deeper into android market to analyze the factors influence Rate of apps, trends in the app market, determinants of app downloads. Furthermore, analysis on android market may also help drive app-making business to success.
+This preoject is posted on Kaggle. The datasets include information about applications on Google Play store. According to this datasets, we expect to dig deeper into android market to analyze the factors influence Rate of apps, trends in the app market, determinants of app downloads. Furthermore, analysis on android market may also help drive app-making business to success.
 
 # Description of dataset
 We get the datasets from Kaggle. There are two datasets:
