@@ -1,7 +1,7 @@
 # Google Play App Store
 While many public datasets (on Kaggle and the like) provide Apple App Store data, there are not many counterpart datasets available for Google Play Store apps anywhere on the web. On digging deeper, I found out that iTunes App Store page deploys a nicely indexed appendix-like structure to allow for simple and easy web scraping. On the other hand, Google Play Store uses sophisticated modern-day techniques (like dynamic page load) using JQuery making scraping more challenging.
 
-The Play Store apps data has enormous potential to drive app-making businesses to success. Actionable insights can be drawn for developers to work on and capture the Android market!
+The Play Store apps data has enormous potential to drive app-making businesses to success. Actionable insights can be drawn for developers to work on and capture the Android market
 
 # Project objectives
 This preoject is posted on Kaggle. The datasets include information about applications on Google Play store. According to this datasets, we expect to dig deeper into android market to analyze the factors influence Rate of apps, trends in the app market, determinants of app downloads. Furthermore, analysis on android market may also help drive app-making business to success.
